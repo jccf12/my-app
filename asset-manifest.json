@@ -1,7 +1,7 @@
 {
   "main.css": "/my-app/static/css/main.ecc5df6d.chunk.css",
-  "main.js": "/my-app/static/js/main.91ad5fdd.chunk.js",
-  "main.js.map": "/my-app/static/js/main.91ad5fdd.chunk.js.map",
+  "main.js": "/my-app/static/js/main.610988b8.chunk.js",
+  "main.js.map": "/my-app/static/js/main.610988b8.chunk.js.map",
   "static/js/1.24793a6a.chunk.js": "/my-app/static/js/1.24793a6a.chunk.js",
   "static/js/1.24793a6a.chunk.js.map": "/my-app/static/js/1.24793a6a.chunk.js.map",
   "runtime~main.js": "/my-app/static/js/runtime~main.a3bd857c.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg",
   "static/css/main.ecc5df6d.chunk.css.map": "/my-app/static/css/main.ecc5df6d.chunk.css.map",
   "index.html": "/my-app/index.html",
-  "precache-manifest.26b51d214d0bbfdda7a629cbc6d6edd9.js": "/my-app/precache-manifest.26b51d214d0bbfdda7a629cbc6d6edd9.js",
+  "precache-manifest.bcf3acf7f9b18b974f5fcb1c6d169c68.js": "/my-app/precache-manifest.bcf3acf7f9b18b974f5fcb1c6d169c68.js",
   "service-worker.js": "/my-app/service-worker.js"
 }
